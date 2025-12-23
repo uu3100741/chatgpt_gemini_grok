@@ -68,6 +68,7 @@ payload:
   - DOMAIN-SUFFIX,twimg.org
   - DOMAIN-SUFFIX,api.twitter.com
   - DOMAIN-SUFFIX,abs.twimg.com
+  - IP-CIDR,34.48.46.120/32
 
 # ===== Fallback =====
   - DOMAIN-KEYWORD,openai
